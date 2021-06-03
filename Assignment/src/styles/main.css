@@ -1,0 +1,14 @@
+.recipies{
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    float: right;
+    height: 2.8em;
+}
+
+.mainHeading{
+    display: inline;
+    
+}
